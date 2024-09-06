@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border:border-box;
+}
+.top-heading{
+    border: 2px solid;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 900;
+    color: rgb(24, 2, 2);
+    height: 8vh;
+    width: 100vw;
+    background-color: #75d400;
+}
+.panel{
+  
+    text-align: center;
+    font-family: cursive;
+    font-weight: 900;
+    color: rgb(24, 2, 2);
+    height: 4vh;
+    width: 100vw;
+    background-color: #77c21b88;
+}
